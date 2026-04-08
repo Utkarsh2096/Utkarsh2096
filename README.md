@@ -12,15 +12,15 @@
 
 ##  Projects
 
-###  IPL RCB Analysis
-- Analyzed RCB performance using SQL and Excel  
-- Identified top players and performance trends  
-- Derived insights from match and player data  
+###  [IPL RCB Analysis](https://github.com/Utkarsh2096/IPL_RCB_Analysis)
+- Analyzed IPL match data using SQL (joins, aggregations, CTEs)
+- Identified top-performing players and match trends
+- Improved data interpretation through structured queries 
 
 ###  AstroSage Data Analysis
-- Analyzed customer and product data using Excel  
-- Built dashboards and identified sales trends  
-- Generated business insights for decision-making  
+- Performed Excel-based analysis on customer and sales data
+- Built dashboards to identify trends and patterns
+- Generated insights to support business decision-making
 
 ##  Connect with Me
 - LinkedIn: www.linkedin.com/in/utkarsh-chandra-b21597135
