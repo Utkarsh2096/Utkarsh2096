@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Utkarsh 
 
-<!--
-**Utkarsh2096/Utkarsh2096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Data Analyst  
+ Skilled in SQL, Excel, Power BI and Google Sheets  
+ Passionate about turning raw data into actionable insights  
 
-Here are some ideas to get you started:
+##  Skills
+- SQL (Joins, CTEs, Aggregations)
+- Excel (Advanced formulas, Pivot Tables, Dashboards)
+- Data Analysis
+- Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+
+###  IPL RCB Analysis
+- Analyzed RCB performance using SQL and Excel  
+- Identified top players and performance trends  
+- Derived insights from match and player data  
+
+###  AstroSage Data Analysis
+- Analyzed customer and product data using Excel  
+- Built dashboards and identified sales trends  
+- Generated business insights for decision-making  
+
+##  Connect with Me
+- LinkedIn: www.linkedin.com/in/utkarsh-chandra-b21597135
