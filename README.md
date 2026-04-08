@@ -17,7 +17,7 @@
 - Identified top-performing players and match trends
 - Improved data interpretation through structured queries 
 
-###  AstroSage Data Analysis
+### [AstroSage Data Analysis](https://github.com/Utkarsh2096/astrosage-data-analysis)
 - Performed Excel-based analysis on customer and sales data
 - Built dashboards to identify trends and patterns
 - Generated insights to support business decision-making
